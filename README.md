@@ -49,10 +49,10 @@
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/mostfarjana/)(#)  
-- 📧 Email: (most.farjana.2001@gmail.com)(#)  
-- 🧾 ResearchGate: (https://scholar.google.com/citations)(#)
-- 🧾 GoggleScholar : (https://www.researchgate.net/profile/Most-Farjana)(#)
+- 💼 LinkedIn: https://www.linkedin.com/in/mostfarjana/ 
+- 📧 Email: most.farjana.2001@gmail.com
+- 🧾 ResearchGate: https://scholar.google.com/citations
+- 🧾 GoggleScholar : https://www.researchgate.net/profile/Most-Farjana
 
 ---
 
