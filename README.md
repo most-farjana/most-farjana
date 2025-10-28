@@ -51,8 +51,8 @@
 
 - 💼 LinkedIn: (https://www.linkedin.com/in/mostfarjana/)(#)  
 - 📧 Email: (most.farjana.2001@gmail.com)(#)  
-- 🧾 ResearchGate: (https://share.google/tQWp5edKTBj66OLaO)(#)
-- 🧾 GoggleScholar : (https://share.google/qs9wIAFRSrTPywdSf)(#)
+- 🧾 ResearchGate: (https://scholar.google.com/citations)(#)
+- 🧾 GoggleScholar : (https://www.researchgate.net/profile/Most-Farjana)(#)
 
 ---
 
