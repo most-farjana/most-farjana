@@ -17,8 +17,8 @@
 
 | Category | Tools |
 |-----------|--------|
-| Simulation | SUMO • OMNeT++ • CARLA • Veins |
-| Programming | Python • C++ • Java • MATLAB |
+| Simulation | SUMO • OMNeT++ • CARLA |
+| Programming | Python • Java |
 | Data Science | NumPy • Pandas • Matplotlib • SciPy |
 | Development | Git • VS Code |
 | Research | • Jupyter Notebook |
