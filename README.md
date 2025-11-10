@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Most Farjana
+# Hi, I'm Most Farjana
 ### 🚗 Autonomous Vehicle & Intelligent Transport Systems Researcher  
 *Focusing on V2V, V2X, and Vulnerable Road User Safety through SUMO–OMNeT++–CARLA integration.*
 
@@ -34,7 +34,7 @@
 | **Autonomous Vehicle Safety Simulation** | Integration of SUMO–OMNeT++–CARLA for multi-domain traffic & communication modeling | [🔗 View Repo](#) |
 | **V2X Communication Analysis** | Study of Vehicle-to-Everything (V2X) message delay and packet loss under various traffic densities | [🔗 View Repo](#) |
 | **Pedestrian Crash Risk Model** | Simulation-based analysis of vulnerable road user safety in mixed traffic | [🔗 View Repo](#) |
-| **Urban Road Scenerio** | Simulation-based analysis of Road Characteristics | [🔗 View Repo](#) |
+| **Urban Road Scenerio** | Simulation-based analysis of Road Characteristics | [🔗 View Repo]([#](https://github.com/most-farjana/Traffic-Simulation-and-Road-Feature-Analysis-using-SUMO?tab=readme-ov-file#traffic-simulation-and-road-feature-analysis-using-sumo)) |
 ---
 
 ## 📊 GitHub Stats  
